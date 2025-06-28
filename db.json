@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bebidas"
+    },
+    {
+      "id": 2,
+      "name": "Granos"
+    },
+    {
+      "id": 3,
+      "name": "Harinas"
+    },
+    {
+      "id": 4,
+      "name": "snacks"
+    }
+  ],
+  "products": [
+    {
+      "sku": "001",
+      "name": "Pepsi",
+      "price": 1.5,
+      "category_id": 1
+    },
+    {
+      "sku": "002",
+      "name": "Harina de Trigo",
+      "price": 1,
+      "category_id": 3
+    },
+    {
+      "sku": "003",
+      "name": "Arroz",
+      "price": 0.8,
+      "category_id": 2
+    }
+  ]
+}
