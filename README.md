@@ -1,4 +1,4 @@
-# FastInventory
+# FastInventory por Enmanuel Brett 28.501.636
 
 FastInventory es una API REST diseñada para la gestión eficiente de productos mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar).
 
